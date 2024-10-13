@@ -1,0 +1,25 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "noErrorTruncation": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": true,
+    "jsx": "react",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "moduleResolution": "Bundler",
+    "target": "es2019",
+    "module": "ES2015",
+    "lib": ["es2020"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "isolatedModules": true,
+    "baseUrl": "./src",
+    "outDir": "./dist"
+  },
+  "exclude": ["node_modules", "tmp"]
+}
