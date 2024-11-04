@@ -10,7 +10,7 @@
     "@types/mock-fs": "^4.13.4",
     "@types/node": "18.16.9",
     "@typescript-eslint/eslint-plugin": "^7.13.1",
-    "@typescript-eslint/parser": "^7.13.1",
+    "@typescript-eslint/parser": "^8.12.2",
     "dedent": "^1.5.3",
     "eslint": "~8.56.0",
     "eslint-config-prettier": "^9.0.0",
